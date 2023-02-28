@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.login-button {
+  padding-top: 25px;
+  cursor: pointer;
+  text-decoration: none;
+  border-radius: 4px;
+  padding: 10px;
+  transition: 0.4s;
+  color:rgb(56, 56, 47);
+  font-weight: 600;
+  background-color: rgb(39, 179, 97);
+}
+
+.login-button:hover {
+  color: white;
+  background-color: rgba(46, 204, 113);
+}
